@@ -1,0 +1,7 @@
+{
+  "name": "sistema-pedido",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
